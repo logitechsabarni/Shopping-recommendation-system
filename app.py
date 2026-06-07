@@ -1,5 +1,4 @@
-cat > /mnt/user-data/outputs/app.py << 'PYEOF'
-"""
+
 ShopSense AI v3.0.0 — Production-Grade Shopping Intelligence Platform
 Single-file Streamlit application.
 Run: streamlit run app.py
