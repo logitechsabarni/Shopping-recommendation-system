@@ -1,8 +1,5 @@
 
-ShopSense AI v3.0.0 — Production-Grade Shopping Intelligence Platform
-Single-file Streamlit application.
-Run: streamlit run app.py
-"""
+
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # IMPORTS
