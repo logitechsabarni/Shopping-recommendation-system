@@ -242,3 +242,5 @@ MIT — free to use, modify, and distribute.
 ---
 
 *ShopSense AI v2.0.0 · Built with Streamlit · 8 Platform APIs · 2.4M+ Products Indexed*
+
+https://shopping-recommendation-system-wp3dsiwafzascxs2ydqrby.streamlit.app/
